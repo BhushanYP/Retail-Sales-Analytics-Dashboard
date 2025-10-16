@@ -21,7 +21,49 @@ The dataset represents a multi-store retail company dealing in bikes and accesso
 
 The database consists of multiple interconnected tables that describe the business operations of a retail store.
 
-![](image/rdbms.png)
+![](images/rdbms.png)
+
+---
+
+## 📖 Problems and Results
+
+💰 1. Sales Performance Analysis
+- Problem 1: Which stores generate the highest revenue and growth?  
+  Solution:  
+  ![](images/Problem1.png)  
+- Problem 2: What are the top-selling products and categories?  
+  Solution:  
+  ![](images/Problem2.png)  
+- Problem 3: How do sales vary by season or month?  
+  Solution:  
+  ![](images/Problem3.png)  
+
+🧍 2. Customer Behavior & Loyalty
+- Problem 4: Who are our most valuable customers (top spenders)?  
+  Solution:  
+  ![](images/Problem4.png)  
+- Problem 5: Which states or cities bring the most customers and sales?  
+  Solution:  
+  ![](images/Problem5.png)  
+
+🏷️ 3. Product & Inventory Management
+- Problem 6: Which products are running low in stock?  
+  Solution:  
+  ![](images/Problem6.png)  
+- Problem 7: Which brands perform best across stores?  
+  Solution:  
+  ![](images/Problem7.png)  
+
+👨‍💼 4. Staff & Operational Efficiency
+- Problem 8: Which staff members drive the most revenue?  
+  Solution:  
+  ![](images/Problem8.png)  
+- Problem 9: How efficient is order processing (order to shipment)?  
+  Solution:  
+  ![](images/Problem9.png)  
+- Problem 10: How do discounts affect total revenue?  
+  Solution:  
+  ![](images/Problem10.png)  
 
 ---
 
@@ -36,45 +78,17 @@ The database consists of multiple interconnected tables that describe the busine
 
 ---
 
-## 📊 Tableau Dashboards  
+## 📊 Tableau Dashboard  
 
-**1️⃣ Executive Summary**  
-Overview of the company’s performance using KPIs such as Total Revenue, Total Orders, and Unique Customers.
-
-**2️⃣ Sales Performance**  
-Analysis of revenue by product category, store, and month.  
-Includes trend analysis and top-performing products.
-
-**3️⃣ Customer Insights**  
-Identifies high-value customers, purchase frequency, and customer distribution by region or state.
-
-**4️⃣ Staff & Store Overview**  
-Compares staff performance, store-level revenue, and employee contributions to overall sales.
+![](images/Dashboard.png)  
 
 ---
 
 ## 📈 Key Business Insights  
-- 20% of products generate around 80% of total revenue (Pareto principle).  
-- Store “A” consistently leads in total revenue and returning customers.  
-- Discounts effectively increase sales volume but slightly reduce profit margin.  
-- Repeat customers contribute more than half of total revenue.  
-
----
-
-## 📁 Project Structure  
-
----
-
-## 🌐 Tableau Public Dashboard  
-📊 **[View the Live Dashboard on Tableau Public](#)**  
-*(Replace `#` with your published Tableau link)*
-
----
-
-## 📸 Dashboard Previews  
-> *(Add images or thumbnails of your Tableau dashboards here)*  
-> Example:  
-> ![Dashboard Preview](images/sales_overview.png)
+- Trek is best brand accros our all stores.  
+- There are multiple people spend more than 12k in our stores.  
+- Low discounts effectively increase revenue but Medium discounts dont generates much revenue.  
+- Baldwin Bikes Produce most of revenue.  
 
 ---
 
@@ -87,5 +101,5 @@ Compares staff performance, store-level revenue, and employee contributions to o
 
 ## ✍️ Author  
 **Bhushan Yashwant Patil**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn](#) | [GitHub](#)
+📧 Email: [patilbhushan1086@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/bhushan-patil-381601293/]
